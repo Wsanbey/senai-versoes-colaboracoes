@@ -1,0 +1,12 @@
+1º Erro:>
+Depois do processo de criar o repositorio e da um git origin main eu recebi esse erro:
+$ git push -u origin main
+error: src refspec main does not match any
+error: failed to push some refs to 'github.com:Wsanbey/senai-versoes-colaboracoes.git'
+
+E resolvido com o comando 
+$git commit -a -m "Segundo commit"
+$git push origin master.
+
+Fonte da resolução do problema:
+https://horadecodar.com.br/2021/08/08/como-resolver-src-refspec-master-does-not-match-any-no-git/
