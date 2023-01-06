@@ -7,3 +7,5 @@ digito sem olhar para o teclado
 leio códigos com mais simplicidade
 entendo mais só coisas que antes eram apenas um sonho entender
 my english is in development!
+
+##lembrei do comando: git status
