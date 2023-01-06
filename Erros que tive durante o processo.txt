@@ -10,3 +10,13 @@ $git push origin master.
 
 Fonte da resolução do problema:
 https://horadecodar.com.br/2021/08/08/como-resolver-src-refspec-master-does-not-match-any-no-git/
+
+2º
+
+Não concordo com isso :
+Você  conheceu  melhor  os  termos  trunk e branch. Estudou como criar novas branchs   e   como   unificá-las   quando   necessário,   além   de   praticar a criação de tags.
+
+ trunk: Não achei claro 
+criar novas branchs   e   como   unificá-las : Nessa parte eu nao entendi bem. dar um pull para meu repositorio local isso significa "criar novas branchs" ?
+como que isso nao iria mexer no meu código atual?
+COMO:? 
