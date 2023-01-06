@@ -20,3 +20,6 @@ Você  conheceu  melhor  os  termos  trunk e branch. Estudou como criar novas br
 criar novas branchs   e   como   unificá-las : Nessa parte eu nao entendi bem. dar um pull para meu repositorio local isso significa "criar novas branchs" ?
 como que isso nao iria mexer no meu código atual?
 COMO:? 
+
+Resposta achada em ?:
+https://pt.stackoverflow.com/questions/20989/qual-significado-de-branch-tag-e-trunk
