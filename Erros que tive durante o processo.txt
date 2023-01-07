@@ -23,3 +23,8 @@ COMO:?
 
 Resposta achada em ?:
 https://pt.stackoverflow.com/questions/20989/qual-significado-de-branch-tag-e-trunk
+
+
+3º  Não achei bem elaborada a questão mesmo depois de aprender a criar um merge e resolver conflitos seguindo o passo a passo da questão nao foi gerado nenhum conflito. Acredito que os conflitos apareceriam se a cada alteração na " feature1 " fosse solicitado para se fazer um envio para o repositorio remoto ( como nao foi solicitado eu nao o fiz apenas segui o passo a passo proposto
+
+aguardo resposta as minhas questões levantadas e duvidas lançadas agradecido o curso é maravilhoso!
